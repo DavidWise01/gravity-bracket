@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "cosmic-gravity",
+    "name": "Cosmic Gravity",
+    "epithet": "G · the outer bracket · General Relativity · ~10²⁶ m — galaxies, the universe",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Cosmic Gravity:GBR:e23b28⟧"
+  },
+  {
+    "slug": "silicon",
+    "name": "Silicon — the Engineered Stack",
+    "epithet": "s · the built substrate · ~10⁻³–10⁰ m — chips, machines, us",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Silicon — the Engineered Stack:GBR:983297⟧"
+  },
+  {
+    "slug": "atomic",
+    "name": "Atomic — Matter",
+    "epithet": "a · the chemistry layer · ~10⁻¹⁰ m — the Ångström",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Atomic — Matter:GBR:ac3098⟧"
+  },
+  {
+    "slug": "quantum",
+    "name": "Quantum — the Fields",
+    "epithet": "q · the fundamental layer · ~10⁻¹⁵ m and below — subatomic",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Quantum — the Fields:GBR:43e75b⟧"
+  },
+  {
+    "slug": "planck-gravity",
+    "name": "Planck Gravity",
+    "epithet": "G · the inner bracket · quantum gravity · ~1.6×10⁻³⁵ m — the Planck length",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Planck Gravity:GBR:c42647⟧"
+  }
+]
